@@ -1,0 +1,1 @@
+This folder should have the train / test set for imagenet
